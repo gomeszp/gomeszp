@@ -1,16 +1,16 @@
-### Hi there 👋
+## Quem sou eu ?
 
-<!--
-**gomeszp/gomeszp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Me chamo guilherme, tenho 19 anos, sou técnico em eletrônica, e estou estudando python.
 
-Here are some ideas to get you started:
+### Em projetos técnicos tive a oportunidade de desenvolver uma estufa com algumas funções automatizadas, onde pude aprender a utilizar placa ARDUINO junto da linguagem C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Em projetos pessoais estou tendo experiência com a linguagem python, junto de GIT e GITHUB.
+
+#### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
+
+#### Espero que gostem dos conteúdos, aceito sugestões e criticas construtivas. 
+
+#### Contato : (13) 97422-1403
+
+#### E-mail : guilhermegomes09082003@gmail.com
+
