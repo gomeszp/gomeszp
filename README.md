@@ -16,7 +16,8 @@
 
 <div>
      <img align="center" alt="Guilherme-Python"src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-     <img align="center" alt="Guilherme-Python"src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+     <img align="center" alt="Guilherme-C++"src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+     <img align="center" alt="Guilherme-GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </div>
   <br>
      <a href="https://www.linkedin.com/in/guilherme-gomes013/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
