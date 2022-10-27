@@ -1,6 +1,6 @@
 ## Quem sou eu ?
 
-### Me chamo guilherme, tenho 19 anos, sou técnico em eletrônica, e estou estudando python.
+### Me chamo guilherme, tenho 19 anos, sou técnico em eletrônica, e estou estudando programação.
 
 ### Em projetos técnicos tive a oportunidade de desenvolver uma estufa com algumas funções automatizadas, onde pude aprender a utilizar placa ARDUINO junto da linguagem C++.
 
