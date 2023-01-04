@@ -10,7 +10,7 @@
 
 #### Espero que gostem dos conteúdos, aceito sugestões e criticas construtivas. 
 
-#### Contato : (13) 97422-1403
+#### Contato : (13) 97808-8282
 
 #### E-mail : guilhermegomes09082003@gmail.com
 
